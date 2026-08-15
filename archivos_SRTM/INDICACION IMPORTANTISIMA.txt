@@ -1,0 +1,5 @@
+
+
+
+	---- INDICACION----
+	Para que RadioMobile pueda leer correctamente los archivos SRTM, estos deben estar ubicados directamente dentro del disco local C:.
