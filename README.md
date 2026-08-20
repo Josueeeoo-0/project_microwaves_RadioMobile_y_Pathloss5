@@ -72,6 +72,7 @@ Estos datos permiten generar los perfiles topográficos necesarios para analizar
 * **Pathloss 5**
 * **Radio Mobile**
 * **SRTM Elevation Data**
+* **Google Earth**
 
 ---
 
