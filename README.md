@@ -79,3 +79,10 @@ Estos datos permiten generar los perfiles topográficos necesarios para analizar
 ## 🎓 Propósito
 
 Este repositorio fue creado con fines académicos para organizar y conservar los archivos utilizados durante el diseño, simulación y análisis de una red de enlaces de microondas.
+
+## 🎨 Presentaciones del proyecto
+
+Las presentaciones utilizadas durante el desarrollo del proyecto pueden visualizarse en línea mediante Canva.
+
+- 📡 [Presentación - Radio Mobile](https://canva.link/h6a7000cpr918cw)
+- 🛰️ [Presentación - Pathloss 5](https://canva.link/b6yygdfh3i277kj)
